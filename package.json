@@ -1,0 +1,22 @@
+{
+  "name": "promojsm-api",
+  "version": "1.0.0",
+  "description": "api promojsm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billymontolalu/promojsm-api.git"
+  },
+  "author": "Billy Montolalu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billymontolalu/promojsm-api/issues"
+  },
+  "homepage": "https://github.com/billymontolalu/promojsm-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
